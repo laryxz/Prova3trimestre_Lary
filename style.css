@@ -1,0 +1,27 @@
+body {
+    color: purple;
+background-color: beige; 
+margin: 0px;
+font-family: fantasy;
+}
+header {
+    border: darkgrey; solid;
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(rgb(52, 7, 88), rgb(136, 3, 54), blue);
+}
+section {
+background: rgb(170, 12, 17)
+padding-botom:80 px
+padding-top:80 px          
+display:flex;
+justify-content: center;    
+}
+{
+.chamada-texto{
+ margin-right: 5%;    
+}
+
+.tarde{
+    font-style: oblique;
+}
